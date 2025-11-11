@@ -1,0 +1,6 @@
+@LivePricesClient_HostAddress = http://localhost:5144
+
+GET {{LivePricesClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
