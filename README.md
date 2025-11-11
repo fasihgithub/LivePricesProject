@@ -1,5 +1,3 @@
----
-
 # **LivePricesProject**
 
 ## **Running the LivePricesProject Locally (VS Code)**
@@ -8,9 +6,9 @@
 
 Before you start, make sure your system has:
 
-* .NET 7 SDK installed
-* Visual Studio Code (VS Code) installed
-* Internet access to fetch live price data from Binance
+ .NET 7 SDK installed
+ Visual Studio Code (VS Code) installed
+ Internet access to fetch live price data from Binance
 
 Verify your .NET installation by running in your terminal:
 **dotnet --version**
